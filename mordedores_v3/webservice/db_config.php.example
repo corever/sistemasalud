@@ -1,0 +1,44 @@
+<?php 
+	
+define('ENVIROMENT','DEV');	
+/**	 * Credenciales para conexion a base de datos	 */
+if(ENVIROMENT == 'DEV'){
+	define('DB_HOST', 'localhost');
+	define('DB_USER', '');
+	define('DB_PASS', '');
+	define('DB_NAME', 'mordedores_v2');
+	define('DB_PORT', '3306');
+}elseif(ENVIROMENT == 'TEST'){
+	define('DB_HOST', 'localhost');
+	define('DB_USER', '');
+	define('DB_PASS', '');
+    define('DB_NAME', 'test_mordedor');
+    define('DB_PORT', '3306');
+}elseif(ENVIROMENT == 'PROD'){
+	define('DB_HOST', '');
+	define('DB_USER', '');
+	define('DB_PASS', '');
+	define('DB_NAME', '');
+	define('DB_PORT', '3306');
+}elseif(ENVIROMENT == 'QA'){
+	define('DB_HOST', '');
+	define('DB_USER', '');
+	define('DB_PASS', '');
+    define('DB_NAME', 'mordedores_v2');
+    define('DB_PORT', '3306');
+}
+
+/* Login MIDAS*/
+if(ENVIROMENT == 'PROD'){
+	define('DB_HOST_MIDAS', '');
+	define('DB_USER_MIDAS', '');
+	define('DB_PASS_MIDAS', '');
+	define('DB_NAME_MIDAS', '');
+	define('DB_PORT_MIDAS', '3306');
+}else{
+	define('DB_HOST_MIDAS', '');
+	define('DB_USER_MIDAS', '');
+	define('DB_PASS_MIDAS', '');
+	define('DB_NAME_MIDAS', '');
+	define('DB_PORT_MIDAS', '3306');
+}

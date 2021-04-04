@@ -1,0 +1,11 @@
+sys/Config.php
+webservice/db_config.php
+/sys/Config.php
+/webservice/db_config.php
+/app/views/templates_c/*
+/archivos/documentos/*
+/tmp/logs/*
+/tmp/cache/*
+/nbproject/*
+build.xml
+manifest.mf

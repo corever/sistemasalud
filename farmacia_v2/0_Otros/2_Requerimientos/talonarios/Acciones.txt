@@ -1,0 +1,16 @@
+Tanto Eliminar como Transferir Talonario deben:
+- Tener un Select y luego un botón con la acción (como el Asignar)
+- Se debe consultar un Motivo (textarea) y guardar eb BD Quién, Cuándo y Por qué realizó la acción (para luego mostrar en Bitácora o Reporte)
+- Los Talonarios "eliminados" no deben aparecer en ninguna parte del sistema (siempre se deben excluir en las querys)
+- Los Talonarios Transferidos deben ser diferenciados de los Creados en Base de Datos (bo_Transferido=1)
+- Cuando la Región tenga Talonarios Transferidos, debe ver un nuevo Menú, para Recepcionar Talonarios
+
+Nuevas acciones:
+- Se debe modificar BD, para el correcto funcionamiento de estas nuevas acciones
+
+Recepcionar Talonarios
+- La acción Recepcionar, debe indicar Fecha (obligatorio), documento (opcional) y Observación (opcional)
+
+Merma
+- Se debe indicar el Motivo: Dañado - Perdido - Robado - Otro (despliega Input para indicar el motivo)
+	+ Observación (Textarea)

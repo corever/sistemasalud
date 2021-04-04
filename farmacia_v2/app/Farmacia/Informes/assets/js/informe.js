@@ -1,0 +1,9 @@
+
+var Informe = {
+
+
+    init : function(){
+        
+    }
+    
+};

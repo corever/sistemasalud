@@ -1,0 +1,9 @@
+
+var Denuncias = {
+
+
+    init : function(){
+        
+    }
+    
+};

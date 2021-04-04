@@ -1,0 +1,9 @@
+
+var Base = {
+
+
+    init : function(){
+        
+    }
+    
+};

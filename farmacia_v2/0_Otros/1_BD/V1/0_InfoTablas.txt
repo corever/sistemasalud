@@ -1,0 +1,81 @@
+Tablas que se llenar al utilizar el sistema:
+	acceso_restringido
+	acceso_restringido_mapa
+	Asignacion_talonario
+	denuncia_farmacia
+	denuncia_farmacia_obs
+	denuncia_farmacia_reclamo
+	Desasignacion_talonario	-> No utilizar en V2, se debe reemplazar por Bitácora de acciones
+	director_tecnico
+	director_tecnico_activar
+	director_tecnico_cron
+	documento_tipo_historial
+	documento_tipo_temporal
+	local_cron
+	local_estado			-> se debe reemplazar por Bitácora de acciones
+	local_estado_turno
+	local_funcionamiento	-> Mejorar, se puede guardar en un JSON (1 registro por Establecimiento)
+	maestro_sistemas
+	medicos					-> Mejorar, para no generar inconsistencia con profesion_por_usuario ni con maestro_usuario_rol
+	
+	profesion_por_usuario	-> Mejorar, para no generar inconsistencia con profesion_por_usuario ni con maestro_usuario_rol
+	recovery_key			-> Se debe mejorar funcionalidad
+	registro_actividad		-> Mejorar por Bitácora de acciones
+	registro_actividad_turno-> Mejorar por Bitácora de acciones
+	registro_login			-> Mejorar por Bitácora de acciones
+	registro_login_ws		-> Mejorar por Bitácora de acciones
+	registro_logout			-> Mejorar por Bitácora de acciones
+	registro_query			-> Mejorar por Auditoria en Tabla externa
+	registro_ver_resolucion	-> Mejorar por Bitácora de acciones
+	registro_ws_comparador	-> Mejorar por Bitácora de acciones
+	registro_ws_turnos		-> Mejorar por Bitácora de acciones
+	rotacion_qf				-> Mejorar, se puede guardar en un JSON [revisar]
+	rotacion_qf_historico	-> Mejorar por Bitácora de acciones en rotacion_qf
+	rotacion_semanal_qf		-> Mejorar, se puede guardar en un JSON [revisar]
+	talonario
+	talonarios_creados
+	talonarios_vendidos
+	talonario_precio_historial-> Mejorar por Bitácora sobre talonario_precio_region
+	turno
+	turno_cod_resolucion
+	turno_complemento
+	turno_detalle
+	turno_detalle_quimico
+	turno_notifica?
+	turno_resolucion
+	turno_tipo_resolucion?
+	venta
+	ws_acceso_sistemas
+	ws_acceso_sistemas_historial
+	ws_acceso_sistemas_token
+	ws_key?
+
+
+Tablas Vacias en Prod, pero porque se debe desarrollar funcionalidad:
+	[Se debe Implementar funcionalidad, pero se puede modificar Tabla parcial o tatalmente incluyendo el Nombre Tabla]
+	asignacion_medicamento_receta
+	detalle_hoja_libro
+	detalle_local_stock
+	detalle_receta_sd
+	oc_detalle
+	oc_medicamento
+	receta_cheque
+	receta_retenida
+	receta_sd
+	receta_medicamentos
+	libro_medicamento
+	lista_negra
+	medico_denuncia
+	
+	ejercicio_quimico
+	medico_limite_venta
+	registro_evento_ws_farmanet -> Mejorar por Bitácora de acciones
+	registro_institucional		-> Mejorar por Bitácora de acciones
+	registro_no_institucional	-> Mejorar por Bitácora de acciones
+	registro_ws_farmanet		-> Mejorar por Bitácora de acciones
+	rotacion_semanal_local		-> Mejorar, se puede guardar en un JSON [revisar]
+	
+Tablas que ya no se deben utilizar
+	estados_mesa_ayuda
+	mail
+	mail_observacion

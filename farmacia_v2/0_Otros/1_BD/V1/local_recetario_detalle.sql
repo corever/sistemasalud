@@ -1,0 +1,42 @@
+-- phpMyAdmin SQL Dump
+-- version 4.0.10.20
+-- https://www.phpmyadmin.net
+--
+-- Host: 10.8.139.4
+-- Generation Time: Jul 20, 2020 at 12:31 PM
+-- Server version: 5.1.73-log
+-- PHP Version: 5.6.33
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+--
+-- Database: `farmanet`
+--
+
+--
+-- Dumping data for table `local_recetario_detalle`
+--
+
+INSERT INTO `local_recetario_detalle` (`id`, `gl_nombre_tipo`, `gl_nombre_tipoa`, `gl_vista`, `gl_letra_tipo`, `orden_tipo`, `fc_creacion_tipo`) VALUES
+(1, 'PAPELILLOS U OTROS ENVASES DE POLVO', 'PAPELILLOS U OTROS ENVASES DE POLVO', 'rec_papelillos', '1A', 1, '2015-07-09 19:07:00'),
+(2, 'CAPSULAS DURAS', 'CÁPSULAS DURAS', 'rec_capsulas_duras', '1B', 2, '2015-07-09 19:07:27'),
+(3, 'JARABES, SOLUCIONES Y SUSPENSIONES', 'JARABES, SOLUCIONES Y SUSPENSIONES', 'rec_jarabes', '2A', 3, '2015-07-09 19:08:15'),
+(4, 'OVULOS, SUPOSITORIOS', 'ÓVULOS, SUPOSITORIOS', 'rec_ovulos', '2B', 4, '2015-07-09 19:08:44'),
+(5, 'CREMAS, GELES, PASTAS', 'CREMAS, GELES, PASTAS', 'rec_cremas', '2C', 5, '2015-07-09 19:09:11'),
+(6, 'PREPARADOS ESTERILES NO INYECTABLES', 'PREPARADOS ESTÉRILES NO INYECTABLES', 'rec_preparado_no_inye', '3A', 6, '2015-07-09 19:09:45'),
+(7, 'ESTERILES INYECTABLES', 'ESTERILES INYECTABLES', 'rec_preparado_inye', '3B', 7, '2015-07-09 19:10:02'),
+(8, 'NUTRICIONES PARENTERALES', 'NUTRICIONES PARENTERALES', 'rec_nutriciones', '3C', 8, '2015-07-09 19:10:34'),
+(9, 'CITOSTATICOS', 'CITOSTÁTICOS', 'rec_citostaticos', '3D', 9, '2015-07-09 19:11:00'),
+(10, 'PREPARADOS COSMETICOS MAGISTRALES (EXCEPTO PROTECTORES SOLARES)', 'PREPARADOS COSMÉTICOS MAGISTRALES', 'rec_magistrales', '4', 10, '2015-07-09 19:11:55'),
+(11, 'PREPARADOS HOMEOPATICOS', 'PREPARADOS HOMEOPÁTICOS', 'rec_homeopaticos', '5', 11, '2015-07-09 19:12:50');
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

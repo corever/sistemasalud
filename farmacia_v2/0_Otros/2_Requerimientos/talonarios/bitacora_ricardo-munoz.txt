@@ -1,0 +1,37 @@
+cambio de nombre en el link del modulo Talonarios
+
+--
+
+cp app\Farmacia\Mantenedor\controllers\Usuario.php app\Farmacia\Mantenedor\controllers\Talonario.php 
+--
+
+cp  app\Farmacia\Mantenedor\views\usuario  app\Farmacia\Mantenedor\views\talonario
+--
+
+edit app\_FuncionesGenerales\General\views\json\json_espanol.json 
+--
+
+elimina de tabla documento
+elimina de tabla proveedor
+elimina de tabla estado_talonario
+elimina de DAO documento
+elimina de DAO proveedor
+elimina de DAO estado_talonario
+
+crea de tabla talonario_tipo_documento
+crea de tabla talonario_tipo_proveedor
+crea de tabla talonario_estado
+crea de DAO talonario_tipo_documento
+crea de DAO talonario_tipo_proveedor
+crea de DAO talonario_estado
+
+crea Bodega, vista, controller, DAO
+
+
+
+--
+
+
+--
+
+--

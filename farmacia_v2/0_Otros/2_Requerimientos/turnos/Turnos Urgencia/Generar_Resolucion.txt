@@ -1,0 +1,44 @@
+- Texto Base Textarea para el punto 2 de Resolución:
+" La farmacia de urgencia atenderá público en forma permanente los 365 días del año y durante las 24 horas del día."
+
+
+- SQL para buscar comunas con Establecimientos de Urgencia
+SELECT 
+	GROUP_CONCAT(DISTINCT id_comuna_midas SEPARATOR ',') AS in_comunas
+FROM local 
+WHERE local_tipo_urgencia = 1 AND id_region_midas = ? ;
+
+SELECT 
+	id_comuna_midas
+FROM local 
+WHERE local_tipo_urgencia = 1 AND id_region_midas = ? ;
+
+
+- SQL para buscar Establecimientos de Urgencia
+SELECT * FROM local WHERE local_tipo_urgencia = 1 AND id_region_midas = ? ;
+
+
+**** Agrego  local_estado = 1, para obtener solo los locales activos
+
+- Guardado
+	- Aplicar regla de revisión en JS y PHP
+		- Todos los campos llenos
+
+		- No debe existir un turno del Periodo
+			- En caso de Existir debe Avisar, mostrar la Resolución y preguntar si lo quiere re-hacer. 
+			- En caso de Si quiere re-hacer, debe preguntar Motivo (para historial) y el turno anterior debe quedar turno.estado_turno=0
+			- En caso de Existir Turno Firmado, el nuevo turno debe Inhabilitar el Anterior 
+				(En nuevo turno debe agregar información del Turno inhabilitado turno.cod_resolucion y turno.num_resolucion)
+
+	- Utilizar turno_resolucion_doc para obtener el Formato de la Resolución
+	- Utilizar turno_resolucion para guardar la Resolución
+	- Utilizar turno para guardar la Cabecera del Turno
+	- Utilizar turno_detalle para guardar el Detalle del Turno
+
+
+- Administrar Turnos
+	- Luego de Generar Resolución, quedará disponible en Administrar Turno con las siguientes Acciones:
+		- Descargar Excel
+		- Ver Resolución
+		- Visar Resolución
+		- Editar Resolución

@@ -1,0 +1,1383 @@
+﻿﻿﻿﻿<table><tr>
+            <th>Region</th>
+            <th>Comuna</th>
+            <th>Localidad</th>
+            <th>Fecha</th>
+            <th>Local</th>
+            <th>Local_Direccion</th>
+            <th>Local_Telefono</th>
+            <th>Dia_nombre</th>
+            <th>Dia_numero</th>
+            <th>mes_numero</th>
+            <th>Tipo_Turno</th>
+            <th>Horario</th>
+            <th>Hora_Inicio</th>
+            <th>Cierre_Mañana</th>
+            <th>Inicio_Tarde</th>
+            <th>Hora_Termino</th>
+            </tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>01/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>01</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>02/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>02</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>03/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>03</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>04/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>04</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>05/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>05</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>06/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>06</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>07/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>07</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>08/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>08</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>09/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>09</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>10/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>10</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>11/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>11</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>12/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>12</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>13/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>13</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>14/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>14</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>15/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>15</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>16/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>16</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>17/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>17</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>18/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>18</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>19/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>19</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>20/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>20</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>21/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>21</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>22/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>22</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>23/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>23</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>24/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>24</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>25/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>25</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>26/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>26</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>27/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>27</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>28/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>28</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>29/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>29</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>30/04/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>30</td>
+								<td>04</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>01/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>01</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>02/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>02</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>03/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>03</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>04/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>04</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>05/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>05</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>06/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>06</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>07/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>07</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>08/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>08</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>09/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>09</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>10/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>10</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>11/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>11</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>12/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>12</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>13/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>13</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>14/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>14</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>15/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>15</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>16/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>16</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>17/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>17</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>18/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>18</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>19/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>19</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>20/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>20</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>21/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>21</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>22/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>22</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>23/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>23</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>24/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>24</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>25/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>25</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>26/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>26</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>27/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>27</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>28/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>28</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>29/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>29</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>30/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>30</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>31/05/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>31</td>
+								<td>05</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>01/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>01</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>02/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>02</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>03/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>03</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>04/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>04</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>05/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>05</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>06/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>06</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>07/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>07</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>08/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>08</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>09/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>09</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>10/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>10</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>11/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>11</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>12/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>12</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>13/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>13</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>14/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>14</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>15/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>15</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>16/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>16</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>17/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>17</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>18/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>18</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>19/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>19</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>20/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>20</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>21/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>21</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>22/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>22</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>23/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>23</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>24/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MIERCOLES</td>
+								<td>24</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>25/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>JUEVES</td>
+								<td>25</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>26/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>VIERNES</td>
+								<td>26</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>27/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>SABADO</td>
+								<td>27</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>28/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>DOMINGO</td>
+								<td>28</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>29/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>LUNES</td>
+								<td>29</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr>	<tr>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO</td>
+								<td>VALPARAISO URGENCIA</td>
+								<td>30/06/2020</td>
+								<td>CRUZ VERDE N°0009</td>
+								<td>AV. PEDRO MONTT 1902</td>
+								<td>+56322745048</td>
+								<td>MARTES</td>
+								<td>30</td>
+								<td>06</td>
+								<td>URGENCIA</td><td>De 00:00 A 00:00 HORAS </td><td>00:00</td>
+								<td>00:00</td>
+								<td>00:00</td>		
+								<td>00:00</td>
+							</tr></table>

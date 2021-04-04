@@ -1,0 +1,47 @@
+Reunión 01-10-2020 Mordedores
+
+	- Se modifica forma de obtener Fecha de Notificación
+		- Modificar los Reportes al respecto
+		* Revisar si está informando así
+	- Fono obligatorio + nota con texto
+	
+	- Nuevo Menú para Editar Dirección Mordedor (en todo momento)
+		- Dirección del Mordedor
+
+	Calificar PPP
+		- Fiscalizador  (luego pasa a Supervisor)
+			- Debe ser en 2 pasos
+			Paso1: Indicar que son los mismos perros
+			Paso2: Agregar Antecedentes y otros datos, luego al Guardar pasa a Supervisor
+			
+		- Supervisor (Visa la del Fiscalizador o Ingresa las de él)
+			- Visa o Modificar
+			- Devolver
+			- Luego pasa a Juridica
+			
+		- Jurídica 
+			- Visa o Modificar
+			- Devolver
+			- Luego pasa a Firmante
+			
+		- Firmante
+			- Devolver
+			- Firma el Documento
+			- Envia email a Dueño (guardar email en BD, para el registro de cuando se visualiza)
+
+
+	APP
+		- Evaluar tener BD de Chip de la Comuna (cuanto pesa)
+		- Cambiar algunos label (app y web)
+		- Marcar si el Mordedor Cuenta con Chip
+
+
+	WS Subdere
+		- Ellos tienen todos los Chip-Dueños
+		- Bajar los de la Comuna, para la APP?
+		- Acción en Terreno
+
+	Reportes
+		- Mejorar los datos
+		- Revisar las Direcciones que indica el Reporte
+		- Reporte PPP

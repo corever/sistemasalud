@@ -1,0 +1,13 @@
+<IfModule mod_php5.c>
+php_value upload_max_filesize 20M
+php_value post_max_size 100M
+php_value memory_limit 2048M
+</IfModule>
+
+Header set X-Robots-Tag "noindex, nofollow"
+
+<IfModule mod_deflate.c>
+    <filesMatch "\.(js|css|html|php|jpg|png|gif)$">
+        SetOutputFilter DEFLATE
+    </filesMatch>
+</IfModule>

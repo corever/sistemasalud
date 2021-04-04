@@ -1,0 +1,9 @@
+
+var AdminMedicamentos = {
+
+
+    init : function(){
+        
+    }
+    
+};

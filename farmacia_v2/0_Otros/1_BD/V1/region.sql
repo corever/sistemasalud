@@ -1,0 +1,47 @@
+-- phpMyAdmin SQL Dump
+-- version 4.0.10.20
+-- https://www.phpmyadmin.net
+--
+-- Host: 10.8.139.4
+-- Generation Time: Jul 20, 2020 at 01:23 PM
+-- Server version: 5.1.73-log
+-- PHP Version: 5.6.33
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+--
+-- Database: `farmanet`
+--
+
+--
+-- Dumping data for table `region`
+--
+
+INSERT INTO `region` (`region_id`, `region_numero`, `numero_region`, `region_nombre`, `nombre_region_corto`, `id_region_midas`, `cod_minsal`, `orden_territorial`) VALUES
+(1, 'XV', '15', 'REGION DE ARICA Y PARINACOTA', 'ARICA', 15, '15', 1),
+(2, 'I', '01', 'REGION DE TARAPACA', 'TARAPACA', 1, '01', 2),
+(3, 'II', '02', 'REGION DE ANTOFAGASTA', 'ANTOFAGASTA', 2, '02', 3),
+(4, 'III', '03', 'REGION DE ATACAMA', 'ATACAMA', 3, '03', 4),
+(5, 'IV', '04', 'REGION DE COQUIMBO', 'COQUIMBO', 4, '04', 5),
+(6, 'V', '05', 'REGION DE VALPARAISO', 'VALPARAISO', 5, '05', 6),
+(7, 'XIII', '13', 'REGION METROPOLITANA', 'METROPOLITANA', 13, '13', 7),
+(8, 'VI', '06', 'REGION DEL LIBERTADOR GENERAL BERNARDO OHIGGINS', 'OHIGGINS', 6, '06', 8),
+(9, 'VII', '07', 'REGION DEL MAULE', 'MAULE', 7, '07', 9),
+(10, 'VIII', '08', 'REGION DEL BIO-BIO', 'BIOBIO', 8, '08', 11),
+(11, 'IX', '09', 'REGION DE LA ARAUCANIA', 'ARAUCANIA', 9, '09', 12),
+(12, 'XIV', '14', 'REGION DE LOS RIOS', 'LOS RIOS', 14, '14', 13),
+(13, 'X', '10', 'REGION DE LOS LAGOS', 'LOS LAGOS', 10, '10', 14),
+(14, 'XI', '11', 'REGION DE AYSEN DEL GENERAL CARLOS IBAÑEZ DEL CAMPO', 'AYSEN', 11, '11', 15),
+(15, 'XII', '12', 'REGION DE MAGALLANES Y LA ANTARTICA CHILENA', 'MAGALLANES', 12, '12', 16),
+(16, 'XVI', '16', 'REGION DE ÑUBLE', 'ÑUBLE', 16, '16', 10);
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

@@ -1,0 +1,162 @@
+<?php
+/* Descomentar si se desea trabajar con sesiones */
+//session_start();
+
+/**
+ * APP_NAME: Nombre de la aplicación
+ */
+define('APP_NAME','Animales Mordedores');
+define('SESSION_BASE','mordedores v3');
+
+define('API_KEY','AIzaSyA0EStNKp8SbPYpeJliwv8hiLUMriqte1g');
+
+
+# zona horaria
+date_default_timezone_set('America/Santiago');
+
+/**
+ * ENVIROMENT:
+ * PROD	(produccion)
+ * TEST	(testing)
+ * QA	(Hades)
+ * DEV	(localhost)
+ */
+defined('ENVIROMENT')
+    || define('ENVIROMENT', (getenv('ENVIROMENT') ? getenv('ENVIROMENT') : 'DEV'));
+
+/**
+ * BASE_PATH: define la ruta base de la aplicacion en la url
+ */
+define('BASE_PATH','/index.php');
+
+/**
+ * determinar directorio donde se ejecuta el sistema
+ */
+$dir_base = DS;
+
+if(strpos($_SERVER['REQUEST_URI'], BASE_PATH) !== false){
+    $path = explode(BASE_PATH, $_SERVER['REQUEST_URI']);
+    
+    if(!empty($path[0])){
+        $dir_base .= trim($path[0],"/") . DS ;
+    }    
+}else{
+    $dir_base = '';
+}
+
+define('DIR_BASE',$dir_base);
+
+define('BASE_URI', DIR_BASE . trim(BASE_PATH,"/"));
+
+define('HOST', 'https://' . $_SERVER['SERVER_NAME']);
+
+define('EXT','');
+
+/**
+ * STATIC_FILES: corresponde a la carpeta donde se alojan archivos estaticos como hojas de estilo y archivos javascript
+ */
+define('STATIC_FILES', DIR_BASE . 'static/');
+
+/**
+ * DEFAULT_CONTROLLER: define el controlador por defecto/inicial para el sistema
+ */
+define('DEFAULT_CONTROLLER', 'Login');
+
+/**
+ * DEFAULT_TEMPLATE: define template por defecto usado en el sistema
+ */
+define('DEFAULT_TEMPLATE', '');
+
+/**
+ * PATH_404 : ruta de pagina personalizada para error 404 si es que se tiene
+ */
+define('PATH_404', '');
+
+/**
+ * ERROR_LOG_FILE : fichero personalizado para log de errores
+ */
+define('ERROR_LOG_FILE', 'tmp/logs/error_log');
+
+/**
+ * LANGUAGE: Define idioma del sistema
+ * es: spanish
+ * en: english
+ */
+define('LANGUAGE','es');
+
+/**
+ * EMAIL_ADMIN: correo principal de administrador
+ */
+define('EMAIL_ADMIN','');
+
+/**
+ * Credenciales para conexion a Base de Datos
+ */
+if(ENVIROMENT == 'DEV'){
+	define('DB_HOST', '');
+	define('DB_USER', '');
+	define('DB_PASS', '');
+	define('DB_NAME', 'mordedores_v2');
+	define('DB_PORT', '3306');
+}elseif(ENVIROMENT == 'LOCAL'){
+	define('DB_HOST', 'localhost');
+	define('DB_USER', '');
+	define('DB_PASS', '');
+    define('DB_NAME', 'mordedores_v2');
+	define('DB_PORT', '3306');
+}elseif(ENVIROMENT == 'QA'){
+	define('DB_HOST', '');
+	define('DB_USER', '');
+	define('DB_PASS', '');
+	define('DB_NAME', 'mordedores_v2');
+	define('DB_PORT', '3306');
+}elseif(ENVIROMENT == 'TEST'){
+	define('DB_HOST', '');
+	define('DB_USER', '');
+	define('DB_PASS', '');
+	define('DB_NAME', 'test_mordedor');
+	define('DB_PORT', '3306');
+}elseif(ENVIROMENT == 'PROD'){
+	define('DB_HOST', '');
+	define('DB_USER', '');
+	define('DB_PASS', '');
+	define('DB_NAME', 'm_mordedores_v2');
+	define('DB_PORT', '3306');
+}
+
+define('DB_CHAR', 'utf8');
+define('DB_TYPE', 'MYSQL');
+define('DB_PREFIX','');
+define('DB_TRANSACCIONES', true);
+
+global $config;
+
+/* codificacion */
+$config['codificacion']	= 'utf-8';
+
+/* Setear log de errores */
+$config['log_activado']	= false;
+
+/* Configuraciones generales */
+$config['email_admin']	= '';
+
+/* Directrices de PHP */
+if(ENVIROMENT == 'DEV' || ENVIROMENT == 'LOCAL' || ENVIROMENT == 'QA'){
+    ini_set('error_reporting', E_ALL);
+    ini_set('display_errors', 1);
+}else{
+    ini_set('error_reporting', 0);
+    ini_set('display_errors', 0);
+}
+
+if(ENVIROMENT == 'PROD'){
+	define('WSDL_SOPORTE','https://midas.minsal.cl/soporte/ws/wsSoporte.php?wsdl');
+	define('WSDL_MORDEDOR','https://midas.minsal.cl/mordedores/webservice/wsMordedores.php?wsdl');
+	define('URL_USUARIO_MIDAS','http://midas.minsal.cl/apiMidas/setUsuarioMidas.midas.service.php');
+	define('APP_VERSION','1.2.0');
+}else{
+	define('WSDL_SOPORTE','https://midastest.minsal.cl/soporte/ws/wsSoporte.php?wsdl');
+	define('WSDL_MORDEDOR','https://midastest.minsal.cl/mordedores_test/webservice/wsMordedores.php?wsdl');
+	define('URL_USUARIO_MIDAS','http://midastest.minsal.cl/apiMidas/setUsuarioMidas.midas.service.php');
+	define('APP_VERSION','1.3.1');
+}

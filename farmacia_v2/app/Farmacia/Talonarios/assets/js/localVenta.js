@@ -1,0 +1,9 @@
+
+var LocalVenta = {
+
+
+    init : function(){
+        
+    }
+    
+};

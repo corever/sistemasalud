@@ -1,0 +1,9 @@
+
+var AdminReceta = {
+
+
+    init : function(){
+        
+    }
+    
+};

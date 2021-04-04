@@ -1,0 +1,10 @@
+sftp.json
+/tmp/
+/tmp/*
+/nbproject/
+/nbproject/private/
+/nbproject/*
+app/app_database.php
+app/app_config.php
+files/doc/*
+files/*

@@ -1,0 +1,9 @@
+Perfil Salud Responde
+Perfil Administrador Salud Responde (add/ inhabilitar usuario)
+Para el 15 de Febrero
+
+Funcionalidades
+ - Buscar Farmacia
+ - Farmacia de Turno Hoy y Perfil de Turno Mañana
+ - Region Metro por Defecto
+ - Hoy por Defecto (con un botón Siguiente para el siguiente día)

@@ -1,0 +1,5 @@
+- Nada en el sistema se elimina (no debe tener delete), siempre se debe utilizar un Cambio de estado (bo_estado, id_estado o bo_activo, según el caso)
+- Todos los días deben pushear lo realizado a GIT
+- Todas las acciones deben guardar LOG en BD (en tabla misma tabla y en Tablas especiales para LOG)
+- Cuando una acción es "importante", se debe visualizar en sistema una "Bitácora" de las acciones.
+- Todos los Select deben ser llenados desde Tablas de BD. Si no existe, se debe crear.

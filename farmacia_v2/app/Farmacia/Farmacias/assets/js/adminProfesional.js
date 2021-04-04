@@ -1,0 +1,9 @@
+
+var AdminProfesional = {
+
+
+    init : function(){
+        
+    }
+    
+};

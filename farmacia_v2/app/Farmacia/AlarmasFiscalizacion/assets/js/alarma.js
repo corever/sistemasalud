@@ -1,0 +1,9 @@
+
+var Alarma = {
+
+
+    init : function(){
+        
+    }
+    
+};

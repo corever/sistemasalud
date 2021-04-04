@@ -1,0 +1,9 @@
+
+var Sumarios = {
+
+
+    init : function(){
+        
+    }
+    
+};
